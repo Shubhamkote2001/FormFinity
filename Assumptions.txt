@@ -1,0 +1,31 @@
+# FormFinity
+
+Problem Statement:
+
+Assume that you are the CTO for the outsourcing firm which has been chosen to build an
+admission form for the Yoga Classes which happen every month.
+Requirements for the admission form are:
+- Only people within the age limit of 18-65 can enroll for the monthly classes and they will
+be paying the fees on a month on month basis. I.e. an individual will have to pay the fees
+every month and he can pay it any time of the month.
+- They can enroll any day but they will have to pay for the entire month. The monthly fee is
+500/- Rs INR.
+- There are a total of 4 batches a day namely 6-7AM, 7-8AM, 8-9AM and 5-6PM. The
+participants can choose any batch in a month and can move to any other batch next
+month. I.e. participants can shift from one batch to another in different months but in
+same month they need to be in same batch.
+
+Assumptions For Above Problem Statement: 
+
+
+1. The admission form should be designed with a user-friendly interface and should be easy to access and use. 
+2. The form should be secure and encrypted to ensure the safety of the user's personal information.
+3. The form should be able to accept payments in various payment methods such as debit/credit card, net banking, etc.
+4. The form should be able to automatically generate invoices for each successful transaction.
+5. The form should be able to generate reports with detailed information on the transactions and the enrolled participants. 
+6. The form should be able to provide a platform to communicate with the enrolled participants for any updates or changes.
+7. The form should be able to generate a calendar for the enrolled participants that will show the batches and the classes for each month. 
+8. The form should be able to provide details of the classes offered and the fees for each batch. 
+9. The form should be able to provide a list of the enrolled participants along with the batch they have chosen. 
+10. The form should be able to provide an option to the participants to choose their preferred batch and make payments. 
+11. The form should be able to provide an option to the participants to reschedule their classes if required.
